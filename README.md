@@ -1,1 +1,1 @@
-TinDog Starting Files
+TinDog sample Bootstrap exercise
